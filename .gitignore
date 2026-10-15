@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+erro.log
+# Para a versão online, REMOVA a linha abaixo se quiser versionar o banco (não recomendado)
+*.db
